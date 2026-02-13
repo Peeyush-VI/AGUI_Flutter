@@ -1,4 +1,4 @@
-# agui_flutter
+# Agui
 
 A new Flutter project.
 
